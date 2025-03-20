@@ -25,3 +25,7 @@ function addMovie() {
 
 function handleKeyPress(event) {
     if (event.key ===
+
+
+function handleKeyPress(event) {
+    if (event.key ===
